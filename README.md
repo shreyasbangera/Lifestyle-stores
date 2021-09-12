@@ -1,3 +1,4 @@
 # website
 Developed a shopping website using html,css and bootsrap.
-Link- lifestyelestores.epizy.com
+
+Link- http://lifestyelestores.epizy.com
