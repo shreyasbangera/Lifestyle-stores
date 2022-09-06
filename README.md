@@ -2,4 +2,4 @@
 # E-commerce Website
 Developed using HTML, CSS and Bootsrap.
 
-Link- http://lifestylestores.epizy.com
+Link - https://lifestylestoresbyshreyas.netlify.app/
